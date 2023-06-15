@@ -1,0 +1,3 @@
+package cappatchino.patcher.fingerprint
+
+interface Fingerprint
